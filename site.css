@@ -1,0 +1,8 @@
+/* Rotary Novo Cinquentenário — ajustes sobre rotary.css (base AMJT II recolorida). Blocos novos sempre no fim. */
+:root{--cranberry:#c10042;--azure:#0067c8;--gold:#f7a81b}
+.top .brand .brand-name b:first-child{color:var(--forest-2)}
+.category-tag.acoes{background:#e4edf9;color:#0b3a7a}
+.category-tag.festivas{background:#fdf0d5;color:#6b4300}
+.category-tag.rotary{background:#ede7f8;color:#4a2c86}
+.category-tag.intercambio{background:#e0f3f1;color:#0d5c55}
+footer .wordmark{font-size:clamp(40px,8.2vw,112px);white-space:normal;line-height:.92}
